@@ -43,7 +43,8 @@ public class Program {
 
 				}
 			}
-		}		
+		}
+		System.out.println("Com git!!");
 		sc.close();
 	}
 }
